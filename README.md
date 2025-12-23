@@ -73,7 +73,6 @@
 
 ## 📫 Let’s Connect
 - 📧 Email: ezechielben06@gmail.com
-- 🌐 Portfolio: https://ton-portfolio
-- 💼 LinkedIn: https://linkedin.com/in/ton-profil
+- 🌐 Portfolio: https://ezechielben.netlify.app/
 
 ⭐ Feel free to explore my repositories and projects!
