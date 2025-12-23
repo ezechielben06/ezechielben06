@@ -51,9 +51,9 @@
 ---
 
 ## 🔥 GitHub Stats
-![Ezechiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezechiel-ben&show_icons=true&theme=dark)
+![Ezechiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezechielben06&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezechiel-ben&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezechielben06&layout=compact&theme=dark)
 
 ---
 
