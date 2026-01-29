@@ -13,6 +13,7 @@
 - CSS3
 - SQL
 - Java
+- python
 
 ---
 
